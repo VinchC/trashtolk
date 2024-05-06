@@ -1,8 +1,27 @@
-# React + Vite
+# Objective
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Build a website inspired by https://trashtalk.co/ with comments explaining the code
 
-Currently, two official plugins are available:
+# Validation criteria
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The copy TrashTolk should be similar to its model
+
+The code must follow the principles SOLID, DRY and KISS
+
+The features used should at least be the ones seen during the training at this date
+
+# Methodology
+
+SCRUM
+
+# Tools
+
+<a href="https://trello.com/b/DCgy2eJk/trashtolk">Trello</a>
+
+# Branch naming
+
+Commits should be at the same time short, accurate and explicit
+Branches should be defined as follows :
+
+- New feature : "feat/US-XX-..."
+- Fix : "fix/US-XX..."
