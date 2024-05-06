@@ -25,3 +25,7 @@ Branches should be defined as follows :
 
 - New feature : "feat/US-XX-..."
 - Fix : "fix/US-XX..."
+
+# CSS
+
+Installation of Sass

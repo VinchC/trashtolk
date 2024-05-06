@@ -3,7 +3,7 @@ import "../../style/stylesheets/input.css";
 function App() {
   return (
     <>
-      <p>Futur site de TrashTolk</p>
+      <h1>Futur site de TrashTolk</h1>
     </>
   );
 }
