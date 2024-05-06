@@ -1,6 +1,6 @@
 # Objective
 
-Build a website inspired by https://trashtalk.co/ with comments explaining the code
+Build a website inspired by <a href="https://trashtalk.co/" target="_blank">TrashTalk</a> with comments explaining the code
 
 # Validation criteria
 
@@ -16,7 +16,7 @@ SCRUM
 
 # Tools
 
-<a href="https://trello.com/b/DCgy2eJk/trashtolk">Trello</a>
+<a href="https://trello.com/b/DCgy2eJk/trashtolk" target="_blank">Trello</a>
 
 # Branch naming
 
