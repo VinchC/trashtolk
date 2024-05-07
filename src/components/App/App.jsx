@@ -1,9 +1,14 @@
-import "../../style/stylesheets/input.css";
+import Navbar from "../Navbar/Navbar";
 
 function App() {
   return (
     <>
-      <h1>Futur site de TrashTolk</h1>
+      <div>
+        <Navbar />
+        <section className="mainContent">
+          <p>WIP</p>
+        </section>
+      </div>
     </>
   );
 }

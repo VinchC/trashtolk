@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
 *,
 *:before,
 *:after {
@@ -105,3 +106,51 @@ input {
   --webkit-appearance: none;
   border-radius: 0;
 }
+
+*,
+a {
+  font-family: "Roboto Condensed", sans-serif;
+  color: #27272a;
+}
+
+.mainContent {
+  margin-left: 4rem;
+}
+
+nav {
+  background-color: #f4f4f5;
+  width: 4rem;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  position: fixed;
+  left: 0;
+}
+nav ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+nav ul li {
+  text-align: center;
+}
+nav ul li a {
+  text-decoration: none;
+  font-style: italic;
+  font-size: 0.6rem;
+}
+nav ul li a :hover {
+  background-color: #999999;
+}
+nav ul li a .navLink {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+nav ul li a .navLink svg {
+  width: 1.5rem;
+  height: auto;
+}
+
+/*# sourceMappingURL=navbar.css.map */
